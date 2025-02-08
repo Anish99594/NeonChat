@@ -76,7 +76,7 @@ function App() {
         <div className="container mx-auto flex items-center justify-between">
           <div className="flex items-center space-x-3">
             <img src={shield} alt="" className="h-10 w-10" />
-            <h1 className="text-3xl font-bold text-neon-pink">NeonChat</h1>
+            <h1 className="text-3xl font-bold text-neon-pink">NexusChat</h1>
           </div>
           {!isAuthenticated ? (
             <button
